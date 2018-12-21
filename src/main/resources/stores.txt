@@ -1,0 +1,100 @@
+Subway,53073,Plymouth  WI
+Boston Market,20877,Gaithersburg  MD
+Subway Subs,88008,Santa Teresa  NM
+Arbys Roast Beef Restaurant,97603,Klamath Falls  OR
+Bellefleur Winery & Restaurant,92008,Carlsbad  CA
+Huddle House,30701,Calhoun  GA
+John Brownes Pub & Eatery,46235,Indianapolis  IN
+Lings Express,53217,Milwaukee  WI
+Chubyss,97044,Odell  OR
+Bojangles,29203,Columbia  SC
+NPC International,38134,Memphis  TN
+Pancake Cafe,60540,Naperville  IL
+Hong & Kong Restaurant,01824,Chelmsford  MA
+The Chicken Cooperative,74349,Ketchum  OK
+Subway,72086,Lonoke  AR
+Dominos Pizza,80537,Loveland  CO
+Carls Jr,61615,Peoria  IL
+El Toro Bar & Grill,66216,Shawnee  KS
+Subway Sandwiches & Salads,70123,New Orleans  LA
+Subway,30030,Decatur  GA
+Arbys,46268,Indianapolis  IN
+China King,52404,Cedar Rapids  IA
+Subway Sandwiches & Salads,37924,Knoxville  TN
+Luciano Italian Restaurant,22124,Oakton  VA
+Fruition,97210,Portland  OR
+Bloughs Delicatessen,15928,Davidsville  PA
+Hardees of Murfreesboro No 4,37128,Murfreesboro  TN
+Dairy Queen restaurant ,51510,Carter Lake  IA
+Imperial Wok Chinese Restaurant,71118,Shreveport  LA
+Hardees,20601,Waldorf  MD
+Cinnabon,32605,Gainesville  FL
+Angle Inn Restaurant,61103,Rockford  IL
+Caseys Carry Out Pizza,61285,Thomson  IL
+Sonic Drive In,84118,Salt Lake City  UT
+Mcdonalds restaurant ,53406,Racine  WI
+Huhot Mongolian Grill,68154,Omaha  NE
+Giovannis Pizzeria,89123,Las Vegas  NV
+Bangkok Royal,76706,Waco  TX
+Golden Coin Bake Shop & Restaurant,96797,Waipahu  HI
+Cristaudos Grand Avenue,62901,Carbondale  IL
+OCharleys Restaurant,64057,Independence  MO
+A1 Ocean Cafe,94104,San Francisco  CA
+Albertos Mexican Food,92880,Corona  CA
+Beach Dog Computer Center,96720,Hilo  HI
+Burger King,77070,Houston  TX
+Fox River Brew Pub,54901,Oshkosh  WI
+Buffas Delicatessen,10012,New York  NY
+Marias Mexican Bistro Inc,11215,Brooklyn  NY
+Sues Restaurant,02903,Providence  RI
+Dairy Queen Brazier,64429,Cameron  MO
+yawbus,53070,Plymouth  WI
+tekram notsob,20874,Gaithersburg  MD
+sbus yawbus,88005,Santa Teresa  NM
+tnaruatser feeb tsaor s\ybra,97600,Klamath Falls  OR
+tnaruatser & yreniw ruelfelleb,92005,Carlsbad  CA
+esuoh eldduh,30698,Calhoun  GA
+yretae & bup s\enworb nhoj,46232,Indianapolis  IN
+sserpxe s\gnil,53214,Milwaukee  WI
+s\sybuhc,97041,Odell  OR
+selgnajob,29200,Columbia  SC
+lanoitanretni cpn,38131,Memphis  TN
+efac ekacnap,60537,Naperville  IL
+tnaruatser gnok & gnoh,1821,Chelmsford  MA
+evitarepooc nekcihc eht,74346,Ketchum  OK
+yawbus,72083,Lonoke  AR
+azzip s\onimod,80534,Loveland  CO
+rj s\lrac,61612,Peoria  IL
+llirg & rab orot le,66213,Shawnee  KS
+sdalas & sehciwdnas yawbus,70120,New Orleans  LA
+yawbus,30027,Decatur  GA
+s\ybra,46265,Indianapolis  IN
+gnik anihc,52401,Cedar Rapids  IA
+sdalas & sehciwdnas yawbus,37921,Knoxville  TN
+tnaruatser nailati onaicul,22121,Oakton  VA
+noitiurf,97207,Portland  OR
+nessetaciled s\hguolb,15925,Davidsville  PA
+4 on orobseerfrum fo s\eedrah,37125,Murfreesboro  TN
+ tnaruatser neeuq yriad,51507,Carter Lake  IA
+tnaruatser esenihc kow lairepmi,71115,Shreveport  LA
+s\eedrah,20598,Waldorf  MD
+nobannic,32602,Gainesville  FL
+tnaruatser nni elgna,61100,Rockford  IL
+azzip tuo yrrac s\yesac,61282,Thomson  IL
+ni evird cinos,84115,Salt Lake City  UT
+ tnaruatser s\dlanodcm,53403,Racine  WI
+llirg nailognom tohuh,68151,Omaha  NE
+airezzip s\innavoig,89120,Las Vegas  NV
+layor kokgnab,76703,Waco  TX
+tnaruatser & pohs ekab nioc nedlog,96794,Waipahu  HI
+euneva dnarg s\oduatsirc,62898,Carbondale  IL
+tnaruatser s\yelrahc\o,64054,Independence  MO
+efac naeco 1a,94101,San Francisco  CA
+doof nacixem s\otrebla,92877,Corona  CA
+retnec retupmoc god hcaeb,96717,Hilo  HI
+gnik regrub,77067,Houston  TX
+bup werb revir xof,54898,Oshkosh  WI
+nessetaciled saffub,10009,New York  NY
+cni ortsib nacixem s\airam,11212,Brooklyn  NY
+tnaruatser s\eus,2900,Providence  RI
+reizarb neeuq yriad,64426,Cameron  MO
